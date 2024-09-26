@@ -1,4 +1,3 @@
-#fictional-happiness
 <div class=" col-12 col-md-6 me-3">
   <table class=" table day-timetable" style="text-align:center;">
           <tbody><tr style="background-color:#967f00; color:#fff;">
