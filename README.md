@@ -1,6 +1,6 @@
 <div class=" col-12 col-md-6 me-3">
   <table width="100%" cellpadding="5" class=" table day-timetable" style="text-align:center;">
-          <tbody><tr style="background-color:#967f00; color:#fff;">
+          <tbody><tr valign="top" width="75%" style="background-color:#967f00; color:#fff;">
               <th class="table-col-l">ВТ</th>
               <th class="table-col-r">03.09.2024</th>
           </tr>
@@ -34,7 +34,6 @@
                     </tr>
 
 
-
                     <div class=" col-12 col-md-6 me-3">
                       <table width="100%" cellpadding="5" class=" table day-timetable" style="text-align:center;">
                               <tbody><tr style="background-color:#967f00; color:#fff;">
@@ -53,4 +52,3 @@
                                 <td class="table-col-l"> 5 пара <br> 15:30 17:00 </td>
                                 <td class="table-col-r td_text_lesson"> Лекция, Начертательная геометрия для архитектора, 206/2 <span class="hide-content" style="display:none" id="hide_full_text"></span> </td>
                             </tr>
-                  
